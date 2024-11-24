@@ -253,4 +253,4 @@ Será que chegará uma época em que os sonhadores da Terra, que trabalham frene
 
 **Team Shanghai Alice**: **ZUN** (O P◯3 também é uma arca?)
 
-*fonte: [Touhou Wiki](https://en.touhouwiki.net/wiki/Magical_Astronomy/Story)*
+##### *fonte: [Touhou Wiki](https://en.touhouwiki.net/wiki/Magical_Astronomy/Story)*
