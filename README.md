@@ -234,7 +234,7 @@ Ao ver esta Lua, Merry teve uma ideia.
 > Ei, Renko.
 Se a Viagem Lunar é muito cara, por que não pensamos em outra maneira de chegar lá?
 
-## Posfácios
+## Posfácio
 
 Por exemplo, prazer em conhecê-lo, eu sou ZUN.
 
