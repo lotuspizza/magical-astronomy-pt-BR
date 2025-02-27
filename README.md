@@ -105,7 +105,7 @@ A física está passando para a próxima fase porque já alcançou o menor mundo
 > Ah, esse novo bolo parece ser delicioso!  
 Suas menores unidades seriam ovo artificial e morango artificial, certo?
 
-Diz-se que a quantidade de energia é limitada a 10^19 GeV. Se uma quantidade de energia exagerasse essa quantidade, ela não poderia existir no espaço-tempo. Aliás, esse 10^19 GeV é chamado de energia de Planck, que é cerca de 10^21 vezes maior que a energia criada pela energia nuclear.
+Diz-se que a quantidade de energia é limitada a 10¹⁹ GeV. Se uma quantidade de energia exagerasse essa quantidade, ela não poderia existir no espaço-tempo. Aliás, esse 10¹⁹ GeV é chamado de energia de Planck, que é cerca de 10²¹ vezes maior que a energia criada pela energia nuclear.
 
 ### ***Terraço do Café Satélite***
 
