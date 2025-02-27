@@ -1,4 +1,5 @@
 # Magical Astronomy / Astronomia Mágica (Tradução)
+<img src="cover.png" alt="capa de Magical Astronomy" width="500"/>
 
 ## História
 
