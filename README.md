@@ -21,7 +21,7 @@ Enquanto a maioria só tinha interesse na seção de esportes, desta vez, as not
 
 Imagens do universo acalmam a alma. O motivo é que elas te forçam a perceber a trivialidade da humanidade. Apesar de todas as dificuldades que enfrentamos, o sentimento que temos quando as comparamos com a imensidão do espaço nos conforta. Com um universo tão imenso, nossos próprios esforços não são muito importantes. Chefes, políticos e ditadores caídos são todos humanos insignificantes. Deve-se trabalhar para a sua própria satisfação. Isso pode ser sentido apenas olhando as imagens do universo.
 
-**Renko Usami** e **Maribel Hearn** (Merry) estão animadamente conversando em um café na calçada do campus de sua universidade.
+[Renko Usami](https://en.touhouwiki.net/wiki/Renko_Usami) e [Maribel Hearn](https://en.touhouwiki.net/wiki/Maribel_Hearn) (Merry) estão animadamente conversando em um café na calçada do campus de sua universidade.
 
 ### ***Greenwich no Céu***
 
@@ -71,14 +71,14 @@ No entanto, essas duas ainda não sabiam o preço que tal viagem custaria.
 ***“História do Tempo”***
 
 > Mas uma sonda marciana tripulada ainda tem que ser realizada com sucesso.  
-Será que podemos testemunhar o universo imaginado por Hawking?
+Será que podemos testemunhar o universo imaginado por [Hawking](https://pt.wikipedia.org/wiki/Stephen_Hawking)?
 
 > Afinal, o problema é que não houve físicos que superaram Hawking.
 
 > Ah, mas e você, Renko? Você só precisa trabalhar duro para isso.  
 Você tem uma habilidade rara.
 
-> Estou em uma diferente área, mas talvez eu seja tão inteligente quanto Planck. Além disso, acho que não é praticamente possível observar a dissipação de um buraco negro.  
+> Estou em uma diferente área, mas talvez eu seja tão inteligente quanto [Planck](https://pt.wikipedia.org/wiki/Max_Planck). Além disso, acho que não é praticamente possível observar a dissipação de um buraco negro.  
 Não acho nem que a humanidade chegará à Marte.
 
 > Ah, que pessimista. Mas se é isso que você acha, vou acreditar em você.
@@ -105,7 +105,7 @@ A física está passando para a próxima fase porque já alcançou o menor mundo
 > Ah, esse novo bolo parece ser delicioso!  
 Suas menores unidades seriam ovo artificial e morango artificial, certo?
 
-Diz-se que a quantidade de energia é limitada a 10¹⁹ GeV. Se uma quantidade de energia exagerasse essa quantidade, ela não poderia existir no espaço-tempo. Aliás, esse 10¹⁹ GeV é chamado de energia de Planck, que é cerca de 10²¹ vezes maior que a energia criada pela energia nuclear.
+Diz-se que a quantidade de energia é limitada a 10¹⁹ GeV. Se uma quantidade de energia exagerasse essa quantidade, ela não poderia existir no espaço-tempo. Aliás, esse 10¹⁹ GeV é chamado de [energia de Planck](https://pt.wikipedia.org/wiki/Energia_de_Planck), que é cerca de 10²¹ vezes maior que a energia criada pela energia nuclear.
 
 ### ***Terraço do Café Satélite***
 
@@ -136,7 +136,7 @@ Esse café fervido, mas gelado, o Café Satélite Gelado, é a principal atraç�
 As gotas não vão cair sem ela.  
 Como eles fazem café sob gravidade zero?
 
-> É por isso que trouxeram as cafeteiras a vácuo de volta dos mortos.  
+> É por isso que trouxeram as [cafeteiras a vácuo](https://pt.wikipedia.org/wiki/Cafeteira_a_v%C3%A1cuo) de volta dos mortos.  
 Ela circula água quente com pressão de vapor.
 
 > Cafeteiras a vácuo…  
@@ -149,7 +149,7 @@ Mesmo assim, ouvi dizer que o café coado é mais gostoso…
 Pela emoção…
 
 A humanidade, libertada da gravidade, está desenvolvendo uma nova cultura. Mas, ao mesmo tempo, descobriram que muitas de suas ferramentas dependiam da gravidade para funcionar.  
-Foi recentemente que a força gravitacional, comprovada há muito tempo e por muito tempo atormentou os físicos, unificou-se com as outras forças.
+Foi recentemente que a força gravitacional, comprovada há muito tempo e por muito tempo atormentou os físicos, [unificou-se](https://pt.wikipedia.org/wiki/Teoria_de_tudo) com as outras forças.
 
 ### ***Feitiçaria Celestial ~ Astronomia Mágica***
 
@@ -256,6 +256,6 @@ Na verdade, parece que as viagens lunares particulares (mas sem aterrissagem, ap
 Mas falando sério, como esse preço é voltado para pessoas normais? É essa a Arca de Noé que o capitalismo está nos mostrando? E as pessoas que ficaram na Terra deveriam se afogar na avalanche de informações?
 Será que chegará uma época em que os sonhadores da Terra, que trabalham freneticamente e sem feriados, poderão aproveitar um feriado casual na Lua?
 
-**Team Shanghai Alice**: **ZUN** (O P◯3 também é uma arca?)
+[Team Shanghai Alice](https://en.touhouwiki.net/wiki/Team_Shanghai_Alice): **[ZUN](https://en.touhouwiki.net/wiki/ZUN)** (O P◯3 também é uma arca?)
 
 ##### *fonte: [Touhou Wiki](https://en.touhouwiki.net/wiki/Magical_Astronomy/Story)*
